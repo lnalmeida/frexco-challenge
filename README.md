@@ -1,1 +1,2 @@
-# Frexco Challenge é um sistema de gerenciamento de estoque feito como desafio de programação da Frexco.
+# Frexco Challenge 
+É um sistema de gerenciamento de estoque feito como desafio de programação da Frexco.
